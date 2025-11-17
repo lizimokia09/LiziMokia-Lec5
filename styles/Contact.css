@@ -1,0 +1,76 @@
+body {
+	margin: 50px;
+
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+
+a {
+	font-weight: 700;
+	font-size: 26px; 
+	text-decoration: none;
+	color: #8D81FF;
+}
+
+section { 
+	background-color:#E7E7E7;
+	width: 1400px;
+	height: 735px;
+}
+
+h2 {
+	font-size: 36px;
+	color: #4E6FAE;
+	margin-left: 16px;
+}
+
+p {
+	font-size: 20px;
+	margin:14px;
+}
+
+.info { 
+	display: inline-block;
+}
+ 
+.map {
+	display: inline-block;
+	width: 944px;
+	height: 550px;
+	margin-top: 100px;
+}
+
+.active {
+	color: #4E6FAE;
+}
+.information {
+  color: grey;
+}
+
+footer {
+	margin-top: 20px;
+}
+.line {
+	height: 48px;
+	width: 0;
+	border: 2px solid #5012D5;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 41px;
+}
